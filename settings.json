@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CUDA-SMP.aternos.me",
+    "ip": "CudaSMP.aternos.me",
     "port": 21545,
     "version": "1.21.1"
   },
