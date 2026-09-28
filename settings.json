@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CudaSMP.aternos.me",
-    "port": 21545,
+    "ip": "VOIDsmp10.aternos.me",
+    "port": 30048,
     "version": "1.21.1"
   },
   "position": {
